@@ -20,4 +20,4 @@ Foi utilizado as Ferramentas de GenAI para o desenvolvimento de conteúdo, atrav
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A AI é uma tecnologia incrivel que acelera o desenvolvimento de toda sociedade em geral, onde uma verdade hoje se torna totalmente passado amanhã.
