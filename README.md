@@ -7,10 +7,14 @@ Como vencer na era das IAs Generativas
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GenAI ChatGPT
+GenAI Perplexity
+GenAI Poe
+Midjourney
+KapKap
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi utilizado as Ferramentas de GenAI para o desenvolvimento de conteúdo, através dos ChatBot, geração de imagem pelo Midjourney e edição de videos KapKap
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
