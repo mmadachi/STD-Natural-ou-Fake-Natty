@@ -21,3 +21,4 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 A AI é uma tecnologia incrivel que acelera o desenvolvimento de toda sociedade em geral, onde uma verdade hoje se torna totalmente passado amanhã.
+Os grandes avanços na ciência, na arte e na tecnologia são geralmente atribuidos à genialidade, mas isso ignora todo o trabalho que há por trás, neste caso a AI generativa e seu amplo uso.
