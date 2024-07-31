@@ -4,7 +4,7 @@ Como vencer na era das IAs Generativas
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Histórico evolutivo da GenAI e seu atual posicionamento hoje
 
 ## 🤖 Tecnologias Utilizadas
 GenAI ChatGPT
@@ -17,7 +17,7 @@ KapKap
 Foi utilizado as Ferramentas de GenAI para o desenvolvimento de conteúdo, através dos ChatBot, geração de imagem pelo Midjourney e edição de videos KapKap
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um resumão evolutivo da GenAI para aqueles que não acompanharam o surgimento desta incrivel tecnologia.
 
 ## 💭 Reflexão (Opcional)
 A AI é uma tecnologia incrivel que acelera o desenvolvimento de toda sociedade em geral, onde uma verdade hoje se torna totalmente passado amanhã.
